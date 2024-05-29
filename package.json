@@ -1,0 +1,15 @@
+{
+  "name": "tailwin-sistem-informasi-sekolah",
+  "version": "1.0.0",
+  "description": "sistem informasi sekolah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwind -i ./style/input.css -o ./style/output.css --watch"
+  },
+  "author": "Muhammad Miftahul Huda",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
